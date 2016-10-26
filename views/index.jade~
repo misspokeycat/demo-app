@@ -2,4 +2,4 @@ extends layout
 
 block content
   h1= title
-  p Thank you EXE!
+  p Welcome to #{title}
